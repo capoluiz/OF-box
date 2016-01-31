@@ -1,4 +1,4 @@
-# estudos
+# OF box
 Repository com arquivos de estudos e testes em openframeworks.
 
 Este repositorio faz parte do processo de aprendizado em creative code utlizando
